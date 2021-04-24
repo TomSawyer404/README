@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="https://th.bing.com/th/id/R0203747a8b35b27aca9aab74a0b0c37d?rik=3OthmwExd4nbZQ&riu=http%3a%2f%2fpic.962.net%2fup%2f2017-11%2f15099354899761702.gif&ehk=0wsXu%2btCfPOWA1osKZEyqpLTf%2f%2fqGnj9eE1Jg4yExZ4%3d&risl=&pid=ImgRaw" height=100 width=100 />
+<img src="https://th.bing.com/th/id/Rcc05d0b8bba959188bfa8cd7ca99a49c?rik=TXNwQDvLMfPVKA&riu=http%3a%2f%2fwx3.sinaimg.cn%2flarge%2f415f82b9ly1frlf686h8gj205i048glp.jpg&ehk=9cdAU6AefPX7CdOdObswkD8vwM9%2f27UwpQMcsdk20So%3d&risl=&pid=ImgRaw" />
 
 </div>
