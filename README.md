@@ -17,7 +17,8 @@ I want to be an interesting person and create something that can be remembered b
 If you like my projects, you can buy me a 🍉/🍔/🍟/🍦/🥤/🍰. Appreciate it.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tomsawyer404&show_icons=true&count_private=true&hide=prs&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=tomsawyer404&show_icons=true&count_private=true&hide=prs&theme=dark" /> 
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsawyer404&layout=compact&langs_count=4&hide=javascript,html,css"/>
 </div>
 
 <div align="center">
