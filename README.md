@@ -16,17 +16,19 @@ I want to be an interesting person and create something that can be remembered b
 
 If you like my projects, you can buy me a 🍉/🍔/🍟/🍦/🥤/🍰. Appreciate it.
 
-![info](https://github-readme-stats.vercel.app/api?username=tomsawyer404&show_icons=true&count_private=true&hide=prs&theme=dark)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tomsawyer404&show_icons=true&count_private=true&hide=prs&theme=dark" />
+</div>
 
 <div align="center">
-	<span>
-		<img src="assets/ubuntu.svg" width = "50">
-		<img src="assets/c.svg" width = "50">
-		<img src="assets/cpp.svg" width = "50">
-		<img src="assets/assembly.svg" width = "50">
-  		<img src="assets/rust.svg" width = "50">
-  		<img src="assets/golang.svg" width = "50">
-		</span>
+<span>
+<img src="assets/ubuntu.svg" width = "50">
+<img src="assets/c.svg" width = "50">
+<img src="assets/cpp.svg" width = "50">
+<img src="assets/assembly.svg" width = "50">
+<img src="assets/rust.svg" width = "50">
+<img src="assets/golang.svg" width = "50">
+</span>
 </div>
 
 ---
